@@ -6,7 +6,7 @@ _Experienced Software Developer with 2 years of experience in  creating user-fri
 
 ## 👩🏼‍💻 Work history
 
-**Software Developer** Emplosoft _(Sep 2022 - Feb 2023)_ <br>
+**Software Developer** Emplosoft _(Sep 2022 - Aug 2023)_ <br>
   - Developed and maintained responsive and user-friendly management dashboard app, ensuring seamless user experience across various devices and browsers
   - Integrated with UI and product teams, took wireframes from conception to implementation and improved UI using HTML, CSS, JavaScript and React
   - Utilized GitHub version control tool to ensure the accuracy and integrity of the codebase while deploying new features and bug fixes
